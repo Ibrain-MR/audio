@@ -1,0 +1,14 @@
+flask==3.0.1
+gunicorn==21.2.0
+pydub
+git+https://github.com/openai/whisper.git
+torch
+torchaudio
+pyAudioAnalysis
+scipy
+scikit-learn
+hmmlearn
+matplotlib
+eyed3
+imblearn
+plotly
